@@ -1,0 +1,103 @@
+{
+    "map" :
+    [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0],
+     [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0],
+     [0, 0, 0, 2, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 0, 0, 1, 1, 0, 0, 2, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 2, 0, 0],
+     [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 2, 0],
+     [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 1, 1, 0, 2, 2, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0],
+     [0, 0, 1, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0],
+     [0, 0, 0, 0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+     [0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+    
+    "buttons" :
+    [
+     {
+         "matrix" : [[1, 1]],
+         "title" : "Welcome to the ExCITe Center",
+         "x" : 1,
+         "y" : 23,
+         "description" : "Drexel's Expressive and Creative Interaction Technologies (ExCITe) Center is a University-wide strategic initiative bringing together faculty, students, and entrepreneurs from engineering, fashion design, digital media, performing arts, computer and information science, product design, and many other fields to pursue highly multi-disciplinary collaborative projects.\n\nThe research and education activities of the ExCITe Center emphasize the arts-integrated approach of STEAM* [vs. traditional STEM]. Additionally, ExCITe serves to connect knowledge and resources across Philadelphia through civic, arts and culture, and industry partnerships with other institutions and organizations in the region.\n\nThe ExCITe Center is a street-level, highly visible space at the corner of Market and 34th Streets in University City. The location includes unique facilities, including the Shima Seiki Haute Technology Lab, but much of the 10,000 square-foot space is dedicated to project collaboration, presentation, and co-working.\n\n* STEAM: Science, Technology, Engineering, Arts & Design, and Mathematics"
+     },
+     {
+         "matrix" : [[1, 0, 0],
+                     [0, 1, 1],
+                     [0, 1, 0]],
+         "title" : "Magnetic Resonator Piano",
+         "x" : 1,
+         "y" : 6,
+         "description" : "The magnetic resonator piano (MRP) is a hybrid acoustic-electronic instrument augmenting the grand piano. By using electromagnets to induce the strings to vibration, the MRP allows the performer to continuously shape the sound of every note. It preserves all the sounds and techniques of the acoustic piano, while expanding its vocabulary to include:\n\n\t• Indefinite sustain\n\t• Crescendos (including crescendos from silence)\n\t• Harmonics on each string (8 to 16 harmonics are usable on the lower strings)\n\t• New timbres which can be shaped in real time\n\t• Subtle pitch bends\n\nThough some electronic keyboards allow the performer to shape a note after it has been sounded, few if any match the richness and expressivity of the acoustic piano. No concert pianist would choose even the most sophisticated digital piano over a moderate-quality acoustic grand. The MRP combines the rich sound of the acoustic piano with the flexibility of digital synthesis by augmenting, rather than replacing, an acoustic instrument."
+     },
+     {
+         "matrix" : [[0, 1, 1]],
+         "title" : "Restrooms",
+         "x" : 2,
+         "y" : 1,
+         "description" : "The men's and women's restrooms are located here. The doors can be unlocked using the appropriate code:\n\n\t• Men: 3+4, 2\n\t• Women: 3+4, 1"
+     },
+     {
+         "matrix" : [[1, 1, 0],
+                     [0, 1, 1]],
+         "title" : "Humanoid Robotics",
+         "x" : 5,
+         "y" : 4,
+         "description" : "Drexel is the lead institution on the Hubo Project, which aims to create a standard humanoid platform within the United States. The MET-lab (Music Entertainment Technology Lab) is focused on using Hubo for musical interaction, with the goal of enabling Hubo to participate in live mixed human/robot musical ensembles as a performer and a dancer. The lab's overall goal is to allow for richer human-robot interactions by enabling humanoids not only to play instruments but also to respond to cues and feedback from their environment. The final system should do the following:\n\n\t• Run in real time in order to respond to feedback from the environment\n\t• Use audio feedback to self-calibrate and detect errrors while playing\n\t• Run on an adult-sized humanoid capable of playing human instruments\n\nHubo is currently able to play PVC pitched pipe instruments, snare drum, and cymbals; perform in a multi-robot group using UDP signals to coordinate the robots; and use audio and force/torque feedback to determine whether a note on the PVC instrument was played correctly with up to 80% accuracy."
+     },
+     {
+         "matrix" : [[0, 1],
+                     [1, 1]],
+         "title" : "APP Lab",
+         "x" : 8,
+         "y" : 8,
+         "description" : "In collaboration with the Pennoni Honors College, with founding support from Bentley Systems, the ExCITe Center welcomes the APP Lab. Open to all students across the university the APP Lab will serve as a resource for those interested in mobile app development, from novices to advanced developers.\n\nThe APP Lab’s mission is to provide resources for all Drexel students to become more competitive in the workplace by gaining exposure to the power of apps as well as experience in the various aspects of the process of defining, designing and testing apps in a cross-disciplinary and innovative learning environment.\n\nAdditionally, the APP Lab strives to provide students with:\n\n\t• A new online series of app development tutorials\n\t• Open consulting hours for one-to-one mentoring of student developers\n\t• A clubhouse environment for student developers to share knowledge and ideas and pursue collaborative projects\n\t• Periodic public apps-related events, including developer workshops, panel sessions, and student showcases\n\t• Support opportunities for student research and development projects"
+     },
+     {
+         "matrix" : [[1, 1, 0, 0, 1, 1],
+                     [0, 0, 1, 0, 0, 1],
+                     [0, 0, 0, 1, 1, 0]],
+         "title" : "Shima Seiki Haute Technology Laboratory",
+         "x" : 12,
+         "y" : 1,
+         "description" : "The Shima Lab excels specializes in exploring the capacity of knit structures and novel materials to push development in wearable technology. The Shima Seiki Haute Technology Laboratory is a multidisciplinary research initiative established by Genevieve Dion which represents a growing partnership between Drexel University and Shima Seiki, the world leader in 3-D computerized knitting systems. Shima Seiki has donated 16 SDS-ONE APEX3 workstations, three state-of-the-art knitting machines and R&D support. The total aggregate value of this donation exceeds $1 million.\n\nThe workstations accurately simulate fabric construction and provide researchers and designers the opportunity to create and simulate garment prototypes, import CAD specifications of their final products, and produce made-to-measure or mass-produced pieces on Shima Seiki knitting machines. Shima Seiki’s R&D support includes help and advice on knit programming, and access to the knit libraries at Shima Seiki USA in New York and New Jersey.\n\nAmong the projects currently underway at the Shima Lab are a knit bellyband with fetal monitoring capabilities, exploration of the potential of spider silk in fabrication, and textile energy storage."
+     },
+     {
+         "matrix" : [[1, 1]],
+         "title" : "Conference Room",
+         "x" : 19,
+         "y" : 5,
+         "description" : "This room is a collaborative workspace available for reservation."
+     },
+     {
+         "matrix" : [[1, 1, 0],
+                     [0, 0, 1]],
+         "title" : "Meeting Area",
+         "x" : 22,
+         "y" : 1,
+         "description" : "This area is a collaborative workspace open to members of the ExCITe community."
+     },
+     {
+         "matrix" : [[0, 1, 1],
+                     [1, 0, 0]],
+         "title" : "Entrepreneurial Game Studio",
+         "x" : 22,
+         "y" : 8,
+         "description" : "\"Entrepreneurial Game Studio (EGS) at Drexel University is a creative and experimental game development studio and publisher focused on developing the next generation of leaders in the mobile game industry. We provide a safe and encouraging environment for students to become entrepreneurs, by assisting them in developing and commercializing their games. Our measure of success is a student or students leaving EGS to start their own game company in Philadelphia. Our mission is to become a factory for mobile game startups and entrepreneurs and turn Philadelphia into a vibrant and leading hub for mobile game development in the world.\"\n\n\t\t\t\t\t- Frank Lee, Co-Founder and Co-director, Drexel Game Design Program"
+     }
+     ]
+}
